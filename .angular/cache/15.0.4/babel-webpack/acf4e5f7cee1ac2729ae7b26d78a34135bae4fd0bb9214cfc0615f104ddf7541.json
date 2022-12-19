@@ -1,0 +1,1 @@
+{"ast":null,"code":"var UserStatus = /*#__PURE__*/(() => {\n  (function (UserStatus) {\n    UserStatus[\"ACTIVE\"] = \"active\";\n    UserStatus[\"INACTIVE\"] = \"inactive\";\n  })(UserStatus || (UserStatus = {}));\n  return UserStatus;\n})();\nexport {};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
